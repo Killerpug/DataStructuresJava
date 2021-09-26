@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data_Structures.iml" filepath="$PROJECT_DIR$/Data_Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS1AbstractDataTypes/JDS1AbstractDataTypes.iml" filepath="$PROJECT_DIR$/JDS1AbstractDataTypes/JDS1AbstractDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS2SingleLinkedList/JDS2SingleLinkedList.iml" filepath="$PROJECT_DIR$/JDS2SingleLinkedList/JDS2SingleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS3Stack/JDS3Stack.iml" filepath="$PROJECT_DIR$/JDS3Stack/JDS3Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS4QueueClass/JDS4QueueClass.iml" filepath="$PROJECT_DIR$/JDS4QueueClass/JDS4QueueClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS5HashTables/JDS5HashTables.iml" filepath="$PROJECT_DIR$/JDS5HashTables/JDS5HashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS6BinaryTrees_AddressBook/JDS6BinaryTrees_AddressBook.iml" filepath="$PROJECT_DIR$/JDS6BinaryTrees_AddressBook/JDS6BinaryTrees_AddressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS7SortingAlgorithms/JDS7SortingAlgorithms.iml" filepath="$PROJECT_DIR$/JDS7SortingAlgorithms/JDS7SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDS8Graphs/JDS8Graphs.iml" filepath="$PROJECT_DIR$/JDS8Graphs/JDS8Graphs.iml" />
+    </modules>
+  </component>
+</project>

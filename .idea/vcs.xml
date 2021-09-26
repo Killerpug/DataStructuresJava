@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/JDS1AbstractDataTypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS2SingleLinkedList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS3Stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS4QueueClass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS5HashTables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS6BinaryTrees_AddressBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS7SortingAlgorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/JDS8Graphs" vcs="Git" />
+  </component>
+</project>

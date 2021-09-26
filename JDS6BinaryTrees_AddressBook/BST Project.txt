@@ -1,0 +1,43 @@
+The project consists in developing a console application implementing an address book. 
+The inner storage for saving contact data will be a Binary Search Tree. Note: AddressBooks->Hash Table, each book has contacts stored in a BST
+The console application must show a terminal prompt like:
+address> open book main
+address> create book main
+address> delete book main
+address>exit
+
+
+There must be a command to select a given address book, as several different address book and may be saved 
+(a hash table relating a books name with an AddressBook object).
+(In this context, main is the name of the address book)
+main> add contact
+main> info contact pug
+main> delete contact pug
+main> search contact pug
+main> edit contact pug
+main> exit 
+
+
+Once inside an address book, the user is capable of:
+-> Adding a new contact
+-> Display the contact info
+-> Searching for a contact (Show all contact names that match with the search query)
+-> Editing a contact
+-> Removing a contact
+
+
+An address contact must have:
+-> A First Name
+-> A Last Name
+-> A phone number
+-> E-mail
+-> Relation (Family, friend, etc)
+-> Birthday
+-> Age (Calculated from birthday)
+
+
+Each operation should have its unique command attached to its required parameters.
+ ANY OTHER COMMAND that the program receives should raise an error (in the form of a unsupported command message)
+
+Finally, the user should be able to exit the program. Upon program termination, all the address books are saved to local storage.
+ When the program starts, all data is loaded from local storage.
